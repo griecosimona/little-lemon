@@ -1,11 +1,12 @@
 import React from "react";
+import Button from "./components/Button.jsx";
+import Dished from "./assets/dished.jpg";
 
 export default function Index() {
     return (
         <>
-            <div className="text-3xl font-bold underline text-primary-500">
-                Hello world!
-            </div>
+
+
         </>
     );
 }
