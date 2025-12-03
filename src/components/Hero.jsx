@@ -34,7 +34,7 @@ export default function Hero() {
                             <img
                                 src={Dished}
                                 alt="Little Lemon dishes"
-                                className="rounded-xl w-[300px] h-[300px] md:w-[360px] md:h-[360px] object-cover shadow-lg"
+                                className="rounded-xl w-90 h-90 object-cover shadow-lg"
                             />
                         </div>
                     </div>
