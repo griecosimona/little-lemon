@@ -5,7 +5,7 @@ export default function Navbar() {
     return (
         <nav className="border-gray-400 shadow">
             <div className="max-w-screen-lg mx-auto px-4 sm:px-6 lg:px-8 py-4">
-                <div className="flex flex-wrap items-center justify-between flex-shrink-0 items-center lg:space-x-14">
+                <div className="flex flex-wrap items-center justify-between flex-shrink-0 lg:space-x-14">
                     <a href="#" className="flex items-center">
                         <img src={Logo} className="h-16" alt="Little Lemon's Logo"/>
                     </a>
